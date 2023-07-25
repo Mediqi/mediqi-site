@@ -1,11 +1,11 @@
 ---
-datePosted: '05-12-2023'
-title: 'A cure for asthma?'
-slug: 'cure-for-asthma'
-date: '05-12-2023'
-author: 'Dr. Ikang'
-image: 'https://images.unsplash.com/photo-1637930030065-718e98132fbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
-excerpt: 'Asthma is a common condition found in 262 million people worldwide...'
+datePosted: "12 May 2023"
+title: "A cure for asthma?"
+slug: "cure-for-asthma"
+date: "12 May 2023"
+author: "Dr. Ikang"
+image: "https://images.unsplash.com/photo-1637930030065-718e98132fbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+excerpt: "Asthma is a common condition found in 262 million people worldwide..."
 ---
 
 Asthma is a common condition found in 262 million people worldwide, according to a estimates done in 2019. In Nigeria alone, the number of people with clinically diagnosed asthma is approximately 13 million. These figures are projected to be one of the highest in Africa.
@@ -28,7 +28,7 @@ Even if you have not had any episode for a long time, avoid triggers that could 
 While there is no cure, prevention of episodes and control of symptoms is attainable and greatly impacts your quality of life.
 
 - Identify what sets it off. This is known as triggers and may not be same for everyone. Some common triggers are dust, smoke, cold. Others are perfumes, paints, insecticides. Some attacks can be triggered by exercise and even stress.
-In Nigeria, the recent change in weather and rains has resulted in an increasing number of episodes.
+  In Nigeria, the recent change in weather and rains has resulted in an increasing number of episodes.
 
 - Stop smoking. Smoking worsens symptoms of asthma and also reduces the effectiveness of your asthma medicine. Also, stay away from people who are smoking. Episodes have been triggered by frying, use of firewood, etc.
 

@@ -1,11 +1,11 @@
 ---
-datePosted: '02-17-2023'
-title: 'Sudden infant death'
-slug: 'sudden-infant-death'
-date: '02-17-2023'
-author: 'Dr. Ikang'
-image: 'https://images.pexels.com/photos/6392895/pexels-photo-6392895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-excerpt: 'Sudden infant death syndrome (SIDS) also known as crib or cot death...'
+datePosted: "17 February 2023"
+title: "Sudden infant death"
+slug: "sudden-infant-death"
+date: "17 February 2023"
+author: "Dr. Ikang"
+image: "https://images.pexels.com/photos/6392895/pexels-photo-6392895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+excerpt: "Sudden infant death syndrome (SIDS) also known as crib or cot death..."
 ---
 
 ## Sudden infant death syndrome (SIDS) also known as crib or cot death is when a seemingly healthy baby (less than one year old) suddenly dies. The death is unexpected and cannot be explained. Autopsies done in most cases are inconclusive.
@@ -14,14 +14,13 @@ It accounts for up to 35-55% of all deaths in infants less than 12 months and it
 
 The exact cause is unknown, however, it is believed to be due to a combination of factors, physical and environmental.
 
-A poorly developed brain increases vulnerability of an infant to SIDS. Premature babies and those part of a  multiple birth are at an increased risk as there is a likelihood that the brain center responsible for regulation of respiration, heart rate and temperature isn’t well formed. These are automatic processes and they have less control over it.
+A poorly developed brain increases vulnerability of an infant to SIDS. Premature babies and those part of a multiple birth are at an increased risk as there is a likelihood that the brain center responsible for regulation of respiration, heart rate and temperature isn’t well formed. These are automatic processes and they have less control over it.
 
-A history of an infection like common cold may precede event.  A flu increases the risk of SIDS as respiration is compromised. In the second case above, on probing, mother reported a history of mild flu in infant prior to incident. This is not to say that every infant that suffers from a flu is at risk of having SIDS. An interplay of certain factors increases vulnerability, like history of prematurity, low birth weight, etc.
+A history of an infection like common cold may precede event. A flu increases the risk of SIDS as respiration is compromised. In the second case above, on probing, mother reported a history of mild flu in infant prior to incident. This is not to say that every infant that suffers from a flu is at risk of having SIDS. An interplay of certain factors increases vulnerability, like history of prematurity, low birth weight, etc.
 
 > ### Tobacco smoking increases the risk of sudden infant death and parents are advised to cease smoking during pregnancy and avoid exposing infant to smoke.
 
 Ensure babies are placed on their backs while sleeping, not on their stomachs or sides as studies have showed that babies not placed on their backs have increased difficulty in breathing.
-
 
 Breastfeed babies before placing them down for a nap. This has been shown to decrease incidence of SIDS.
 Parents instinctively want to get a soft, comfortable mattress for their new born but this is not advisable as a soft mattress, fluffy comforters, pillows can get in the way and obstruct breathing.

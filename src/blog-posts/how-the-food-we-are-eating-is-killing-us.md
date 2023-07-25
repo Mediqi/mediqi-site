@@ -1,11 +1,11 @@
 ---
-datePosted: '05-13-2023'
-title: 'How the food we are eating is killing us'
-slug: 'how-the-food-we-are-eating-is-killing-us'
-date: '05-31-2023'
-author: 'Dr. Ikang'
-image: 'https://images.unsplash.com/photo-1495753379358-73c76ccd644b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=939&q=80'
-excerpt: 'Have you ever wondered about the increasing number of illnesses...'
+datePosted: "31 May 2023"
+title: "How the food we are eating is killing us"
+slug: "how-the-food-we-are-eating-is-killing-us"
+date: "31 May 2023"
+author: "Dr. Ikang"
+image: "https://images.unsplash.com/photo-1495753379358-73c76ccd644b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=939&q=80"
+excerpt: "Have you ever wondered about the increasing number of illnesses..."
 ---
 
 #### HOW THE FOOD WE ARE EATING IS KILLING US
@@ -37,6 +37,7 @@ It helps if you make the decision to eat out less as the foods made in restauran
 While this resolve may be easier for others to keep, it is not always the case for many. This is why it is important, if possible, to have someone you can do this with, an accountability partner. This way you are more likely to have the support needed to help you form a healthier dietary lifestyle.
 
 #### SUMMARY
+
 Food is medicine and everything you put in your body should nourish you as it significantly impacts your life.
 The skyrocketing increase in obesity, heart diseases, cancer, joint problems and other conditions are as a result of our food.
 Ensure that, as much as possible you also buy meals that are free from pesticides and other chemicals used to hasten growth of plants and animals.

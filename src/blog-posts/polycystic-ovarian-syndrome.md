@@ -1,11 +1,11 @@
 ---
-datePosted: '05-13-2023'
-title: 'Polycystic ovarian syndrome (PCOS)'
-slug: 'polycystic-ovarian-syndrome'
-date: '05-13-2023'
-author: 'Dr. Ikang'
-image: 'https://images.pexels.com/photos/7467100/pexels-photo-7467100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-excerpt: 'A polycystic ovary simply means an ovary with multiple cysts. Cysts are fluid...'
+datePosted: "13 May 2023"
+title: "Polycystic ovarian syndrome (PCOS)"
+slug: "polycystic-ovarian-syndrome"
+date: "13 May 2023"
+author: "Dr. Ikang"
+image: "https://images.pexels.com/photos/7467100/pexels-photo-7467100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+excerpt: "A polycystic ovary simply means an ovary with multiple cysts. Cysts are fluid..."
 ---
 
 ### POLYCYSTIC OVARIAN SYNDROME (PCOS)
